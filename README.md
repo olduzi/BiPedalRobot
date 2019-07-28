@@ -1,3 +1,4 @@
+https://olduzi.blogspot.com/
 
 For my project I wanted to create an arduino kit that was specifically marketed to girls. I was inspired by the robot Chip-E because its a bipedal robot that waddles. I thought that if I could make it a penguin some girls would be interested in building it. Then they would use simple block programming to make it walk through a maze.
 
